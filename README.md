@@ -1,2 +1,2 @@
 # Target-Detection
-利用R-CNN和VGG16网络进行目标检测
+利用R-CNN和VGG16网络进行目标检测.
